@@ -1,0 +1,430 @@
+{
+  "seen": {
+    "e6d447a5d6e7": {
+      "repo": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 72.0,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "ba525917aba4": {
+      "repo": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 72.0,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "1ffc8f4b2a6b": {
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 70.0,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "2fd32a61782e": {
+      "repo": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 67.5,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "a89810be3036": {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 67.5,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "8896a31ce669": {
+      "repo": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 67.5,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "24301d66f921": {
+      "repo": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 67.5,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "72e986021155": {
+      "repo": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 67.5,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "6ef6a81d18c4": {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 67.5,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "b3881fe4302c": {
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 65.0,
+      "sources": [
+        "github-trending-daily",
+        "github-trending-weekly"
+      ]
+    },
+    "c8b1425e7ab7": {
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 65.0,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "fb9ff1e77d0b": {
+      "repo": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 63.2,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "17360b8081a4": {
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 62.5,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "1e49a71d3f4c": {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 62.5,
+      "sources": [
+        "github-trending-daily",
+        "github-trending-weekly"
+      ]
+    },
+    "4231fb432956": {
+      "repo": "jakubkrehel/skills",
+      "url": "https://github.com/jakubkrehel/skills",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 62.5,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "a989a52df83e": {
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 62.5,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "4cb2062a8a94": {
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 62.5,
+      "sources": [
+        "github-trending-daily",
+        "github-trending-weekly"
+      ]
+    },
+    "a8c3055cfa24": {
+      "repo": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 62.5,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "be18d27304b5": {
+      "repo": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 62.5,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "490cf5d21060": {
+      "repo": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 62.5,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "e2e7f34f7915": {
+      "repo": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 62.5,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "da6d58510fe1": {
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 60.0,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "c8966a470279": {
+      "repo": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 60.0,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "201061894c1c": {
+      "repo": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 55.0,
+      "sources": [
+        "github-trending-daily",
+        "github-trending-weekly"
+      ]
+    },
+    "6f7e00599cdd": {
+      "repo": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "url": "https://news.ycombinator.com/item?id=50291116",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 42.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "330041224fcc": {
+      "repo": "Show HN: I Turned DOOM into a Transformer",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 37.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "9b211f67fbb5": {
+      "repo": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 35.0,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "ce7117a452f8": {
+      "repo": "Backdoors in official Claude Code extensions",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ]
+    },
+    "8dd9067dc5f1": {
+      "repo": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "d5dc752a33d4": {
+      "repo": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "6e991989f8cc": {
+      "repo": "What we know so far about Spain train crash",
+      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "f1278cee46f5": {
+      "repo": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "url": "https://journal.animationstudies.org/article/id/66/",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "78ca6c474117": {
+      "repo": "Pico CSS is no longer maintained",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "363049a013c4": {
+      "repo": "Zombie stats: Where the numbers AI quotes come from",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "dd3c992be7fe": {
+      "repo": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "e46ca026f5b5": {
+      "repo": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+      "url": "https://github.com/Millillion/lasm",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 26.6,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "d4f691c037f4": {
+      "repo": "Official Claude Code extension compromise",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 25.7,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "1e536df70edb": {
+      "repo": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+      "url": "https://www.youtube.com/watch?v=MENoB3Rex28",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 24.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "3483c8e7392e": {
+      "repo": "An open format for writing agent-native software requirements",
+      "url": "https://slcr.dev/announcements#2026-10-29-slcr-launches",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 4.1,
+      "sources": [
+        "lobsters"
+      ]
+    },
+    "dd740ec8ba1c": {
+      "repo": "American views of higher ed decline, once again",
+      "url": "https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 2.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "b968ccbee829": {
+      "repo": "AI Bubble Burst",
+      "url": "https://seekingalpha.com/article/4960031-ai-bubble-burst-confirmed-by-alphabet-caterpillar-servicenow-amazon",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 1.4,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "bc611d5d40d2": {
+      "repo": "Anthropic hacked to deliver remote access trojan to Claude developer laptops worldwide",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 0,
+      "sources": [
+        "lobsters"
+      ]
+    }
+  },
+  "picks": []
+}
