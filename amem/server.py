@@ -23,6 +23,7 @@ from . import __version__
 from .embed import embedder_from_env, reindex, save_embedder, semantic_search
 from .extract import RuleExtractor, adapt_claude_transcript, adapt_dsh_transcript, events_from_record
 from .store import Observation, Store
+from .summary import render_markdown_summary  # noqa: F401  (re-exported for callers)
 
 WEB = Path(__file__).resolve().parent / "web"
 
@@ -190,27 +191,6 @@ def create_app(db_path: str | None = None) -> "FastAPI":
         return FileResponse(WEB / "style.css", media_type="text/css")
 
     return app
-
-
-def render_markdown_summary(obs: list[dict]) -> str:
-    """Deterministic session summary: what broke, what was decided, what's next."""
-    by_kind: dict[str, list[dict]] = {}
-    for o in obs:
-        by_kind.setdefault(o["kind"], []).append(o)
-
-    def block(title: str, kind: str, empty: str = ""):
-        items = by_kind.get(kind, [])
-        if not items:
-            return [f"- {empty}"] if empty else []
-        return [f"- {o['title']}" for o in items[:6]]
-
-    lines = ["## 这次会话"]
-    for title, kind in (("做了什么决定", "decision"), ("踩了什么坑", "bug"),
-                        ("怎么修好的", "bugfix"), ("发现了什么", "discovery"),
-                        ("还没做完", "todo")):
-        lines.append(f"### {title}")
-        lines.extend(block(title, kind) or ["- 无"])
-    return "\n".join(lines)
 
 
 def main() -> None:  # pragma: no cover - console entry

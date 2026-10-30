@@ -22,6 +22,7 @@ DSH and Claude Code transcripts are adapted into this shape by
 from __future__ import annotations
 
 import json
+import os
 import re
 from dataclasses import dataclass
 from pathlib import Path
@@ -366,3 +367,15 @@ def _extract_json_array(text: str) -> list[dict[str, Any]]:
     except json.JSONDecodeError:
         return []
     return [x for x in arr if isinstance(x, dict)]
+
+
+def extractor_from_env(default: "RuleExtractor | None" = None):
+    """Pick an extractor from the environment. Rules unless AMEM_LLM_URL is set."""
+    url = os.environ.get("AMEM_LLM_URL", "").strip()
+    if not url:
+        return default or RuleExtractor()
+    return LLMExtractor(
+        url,
+        os.environ.get("AMEM_LLM_MODEL", "qwen2.5:7b"),
+        os.environ.get("AMEM_LLM_KEY", ""),
+    )
