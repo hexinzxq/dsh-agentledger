@@ -1,18 +1,20 @@
 {
   "week_of": "2026-10-30",
-  "project": "thedotmack/claude-mem",
-  "url": "https://github.com/thedotmack/claude-mem",
-  "angle": "本地优先 · 确定性抽取 · 中文检索 · 零构建",
+  "project": "skillforge (agent skills library)",
+  "url": "https://github.com/hexinzxq/skillforge",
+  "angle": "规范校验 · 可执行脚本 · 数值而非形容词",
   "phase": "build",
   "iterations_today": {
-    "2026-10-30": 5
+    "2026-10-30": 4
   },
   "created_at": "2026-10-30T22:29:25.992870+08:00",
   "last_iteration": "2026-10-30T22:29:29.136067+08:00",
-  "repo": "dsh-agentledger",
-  "local": "/Users/xin/Documents/deepseek-harness/default-workspace/dsh-daily-lab",
-  "remote": "https://github.com/hexinzxq/dsh-agentledger",
+  "repo": "skillforge",
+  "local": "/Users/xin/Documents/deepseek-harness/default-workspace/skillforge",
+  "remote": "https://github.com/hexinzxq/skillforge",
   "daily_target": 5,
   "status": "shipping",
-  "routine": "docs/ROUTINE.md"
+  "routine": "docs/ROUTINE.md",
+  "note": "2026-10-30 用户改方向：本周做 skill 库而不是 AI 应用；dsh-agentledger 保留继续长，不再作为日更目标",
+  "switched_at": "2026-10-30T22:48:24+08:00"
 }

@@ -90,3 +90,11 @@ CLI 不该为了生成一个摘要去 import FastAPI。
 - 用真实的 DSH 会话 JSONL 跑一遍 `ingest`，看规则抽取的精度到底怎样
 - MCP server 接进真实 harness 配置，验证 `search → timeline → get` 的调用手感
 - 调研脚本的 GitHub search 422（查询语法没编码）
+
+## 2026-10-30 22:48 · 项目转向
+
+用户改方向：本周不做 AI 应用，改做一个 skill 库（遵循 Agent Skills 规范，主题是日常开发与前端页面设计的提效）。
+新仓库：https://github.com/hexinzxq/skillforge ，`state/current_week.json` 已指向它，5 个日更窗口和 routine 都切过去了。
+
+这个仓库（dsh-agentledger）保留，继续长，只是不再是日更目标。当前状态：40 个测试全绿、CI 绿、5 个 commit、README 有快速开始。
+下次回来时从这里接着：真实 DSH 会话 JSONL 跑 ingest 看抽取精度、MCP 接进 harness 配置验证三层检索手感、lab.py 的 GitHub search 422。
