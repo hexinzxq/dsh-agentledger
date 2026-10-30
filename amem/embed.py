@@ -220,7 +220,9 @@ def index_path(data_dir: str | Path) -> Path:
 
 def save_embedder(emb: Embedder, data_dir: str | Path) -> None:
     if isinstance(emb, HashingEmbedder):
-        index_path(data_dir).write_text(json.dumps(emb.to_dict()))
+        p = index_path(data_dir)
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_text(json.dumps(emb.to_dict()))
 
 
 def load_embedder(data_dir: str | Path) -> Embedder:

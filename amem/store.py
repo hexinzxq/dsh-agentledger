@@ -138,7 +138,11 @@ class Store:
         self.path = Path(path)
         if str(self.path) != ":memory:":
             self.path.parent.mkdir(parents=True, exist_ok=True)
-        self.conn = sqlite3.connect(str(self.path), timeout=10)
+        # check_same_thread=False: the HTTP server runs sync endpoints on a
+        # threadpool, so one connection is touched from several threads. WAL
+        # plus SQLite's own serialisation makes that safe for our access
+        # pattern (short writes, single process).
+        self.conn = sqlite3.connect(str(self.path), timeout=10, check_same_thread=False)
         self.conn.row_factory = sqlite3.Row
         self.conn.execute("PRAGMA foreign_keys=ON")
         self.conn.executescript(SCHEMA)

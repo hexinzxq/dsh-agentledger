@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AgentLedger · 会话记忆</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">Agent<span>Ledger</span></div>
+    <div class="stats" id="stats">loading…</div>
+    <div class="spacer"></div>
+    <button id="btn-reindex" title="重新计算向量">重建索引</button>
+    <button id="btn-export" title="导出全部记忆">导出</button>
+  </header>
+  <main>
+    <aside>
+      <h2>会话</h2>
+      <div id="sessions"></div>
+    </aside>
+    <section class="view" id="view">
+      <div class="toolbar">
+        <input id="q" placeholder="搜记忆：中文/英文都行，回车" autocomplete="off" />
+        <select id="mode">
+          <option value="auto">自动</option>
+          <option value="keyword">关键词</option>
+          <option value="semantic">语义</option>
+        </select>
+        <button class="primary" id="btn-search">搜索</button>
+      </div>
+      <div id="content"><div class="empty">左边选一个会话，或者直接搜。</div></div>
+    </section>
+  </main>
+  <div id="toast"></div>
+  <script src="/app.js"></script>
+</body>
+</html>
