@@ -1,0 +1,5 @@
+2026-10-30 22:29  2026-10-30 #1  1 scaffold + SQLite store + FTS5/CJK bigram
+2026-10-30 22:29  2026-10-30 #2  2 rule extractor + local TF-IDF embeddings
+2026-10-30 22:29  2026-10-30 #3  3 MCP stdio server, 3-layer tools
+2026-10-30 22:29  2026-10-30 #4  4 FastAPI + zero-build viewer (fixed cross-thread sqlite, embedder dir)
+2026-10-30 22:29  2026-10-30 #5  5 CLI stdlib + summary module split + docs

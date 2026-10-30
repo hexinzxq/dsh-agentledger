@@ -1,0 +1,17 @@
+{
+  "week_of": "2026-10-30",
+  "project": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "angle": "本地优先 · 确定性抽取 · 中文检索 · 零构建",
+  "phase": "build",
+  "iterations_today": {
+    "2026-10-30": 5
+  },
+  "created_at": "2026-10-30T22:29:25.992870+08:00",
+  "last_iteration": "2026-10-30T22:29:29.136067+08:00",
+  "repo": "dsh-agentledger",
+  "local": "/Users/xin/Documents/deepseek-harness/default-workspace/dsh-daily-lab",
+  "remote": "https://github.com/hexinzxq/dsh-agentledger",
+  "daily_target": 5,
+  "status": "shipping"
+}

@@ -426,5 +426,12 @@
       ]
     }
   },
-  "picks": []
+  "picks": [
+    {
+      "date": "2026-10-30",
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "angle": "本地优先 · 确定性抽取 · 中文检索 · 零构建"
+    }
+  ]
 }

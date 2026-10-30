@@ -391,12 +391,11 @@ def cmd_log(args) -> int:
     cfg["last_iteration"] = now().isoformat()
     cfg["phase"] = args.phase or cfg.get("phase")
     cur.write_text(json.dumps(cfg, ensure_ascii=False, indent=2))
-    ledger = ROOT / "docs" / "ITERATIONS.md"
-    ledger.parent.mkdir(exist_ok=True)
-    if not ledger.exists():
-        ledger.write_text("# 迭代账本\n\n每完成一次真实的改动就记一条。\n\n")
-    with ledger.open("a") as f:
-        f.write(f"- {now():%Y-%m-%d %H:%M}  #{it[d]}  {args.note}\n")
+    # The counter lives in state; docs/ITERATIONS.md is written by hand so it
+    # can explain *why*, not just *what*. Machine log stays greppable.
+    log = state_path("iterations.log")
+    with log.open("a") as f:
+        f.write(f"{now():%Y-%m-%d %H:%M}  {d} #{it[d]}  {args.note}\n")
     print(f"logged #{it[d]} for {d}")
     return 0
 
