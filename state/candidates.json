@@ -275,13 +275,12 @@
       ]
     },
     "ce7117a452f8": {
-      "repo": "Backdoors in official Claude Code extensions",
+      "repo": "Backdoors in Claude Code for VS, Cursor official extensions",
       "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
       "best_score": 32.5,
       "sources": [
-        "hackernews",
         "lobsters"
       ]
     },
@@ -400,7 +399,7 @@
       "url": "https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/",
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
-      "best_score": 2.5,
+      "best_score": 11.1,
       "sources": [
         "hackernews"
       ]
@@ -410,19 +409,40 @@
       "url": "https://seekingalpha.com/article/4960031-ai-bubble-burst-confirmed-by-alphabet-caterpillar-servicenow-amazon",
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
-      "best_score": 1.4,
+      "best_score": 4.3,
       "sources": [
         "hackernews"
       ]
     },
     "bc611d5d40d2": {
-      "repo": "Anthropic hacked to deliver remote access trojan to Claude developer laptops worldwide",
+      "repo": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
       "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ]
+    },
+    "af5c65584d1e": {
+      "repo": "Neal Stephenson on AI and What Comes Next [video]",
+      "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
       "best_score": 0,
       "sources": [
-        "lobsters"
+        "hackernews"
+      ]
+    },
+    "d54545fa0edb": {
+      "repo": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "best_score": 0,
+      "sources": [
+        "hackernews"
       ]
     }
   },

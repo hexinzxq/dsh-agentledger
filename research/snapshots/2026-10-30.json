@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "meta": {
-    "fetched_at": "2026-10-30T22:19:06.621765+08:00",
+    "fetched_at": "2026-10-30T22:35:00.347417+08:00",
     "sources": {
       "github-trending-weekly": {
         "ok": true,
@@ -13,7 +13,7 @@
       },
       "hackernews": {
         "ok": true,
-        "count": 16
+        "count": 15
       },
       "lobsters": {
         "ok": true,
@@ -387,7 +387,7 @@
       "url": "https://github.com/mottopanikeiku/doomformer",
       "title": "Show HN: I Turned DOOM into a Transformer",
       "desc": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual operations, essentially creating an alternative to NumPy (a 65000x slower one). Thus, I am proud to pre",
-      "points": 114,
+      "points": 117,
       "comments": 35,
       "hn_id": 50297697,
       "sources": [
@@ -402,8 +402,8 @@
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "desc": "",
-      "points": 341,
-      "comments": 137,
+      "points": 343,
+      "comments": 140,
       "hn_id": 50296486,
       "sources": [
         "hackernews"
@@ -414,28 +414,11 @@
     {
       "source": "hackernews",
       "repo": "",
-      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-      "title": "Backdoors in official Claude Code extensions",
-      "desc": "",
-      "points": 603,
-      "comments": 176,
-      "hn_id": 50302334,
-      "sources": [
-        "hackernews",
-        "lobsters"
-      ],
-      "key": "ce7117a452f8",
-      "gained": 0,
-      "score": 32.5
-    },
-    {
-      "source": "hackernews",
-      "repo": "",
       "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
       "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
       "desc": "",
-      "points": 202,
-      "comments": 119,
+      "points": 235,
+      "comments": 151,
       "hn_id": 50302814,
       "sources": [
         "hackernews"
@@ -446,11 +429,28 @@
     {
       "source": "hackernews",
       "repo": "",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+      "desc": "",
+      "points": 380,
+      "comments": 78,
+      "hn_id": 50301983,
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "key": "bc611d5d40d2",
+      "gained": 0,
+      "score": 32.5
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "title": "LLM Voice",
       "desc": "",
-      "points": 529,
-      "comments": 282,
+      "points": 535,
+      "comments": 285,
       "hn_id": 50290177,
       "sources": [
         "hackernews"
@@ -464,8 +464,8 @@
       "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
       "title": "What we know so far about Spain train crash",
       "desc": "",
-      "points": 232,
-      "comments": 415,
+      "points": 233,
+      "comments": 416,
       "hn_id": 50286197,
       "sources": [
         "hackernews"
@@ -495,7 +495,7 @@
       "title": "Pico CSS is no longer maintained",
       "desc": "",
       "points": 173,
-      "comments": 83,
+      "comments": 84,
       "hn_id": 50298964,
       "sources": [
         "hackernews"
@@ -534,49 +534,48 @@
       "score": 32.5
     },
     {
-      "source": "hackernews",
+      "source": "lobsters",
       "repo": "",
-      "url": "https://github.com/Millillion/lasm",
-      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-      "desc": "Lasm has been my dream for a good part of 2026.\nI firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly intelligent LLMs that understand formal verification and its programming languages.Lean is one of the most popular languages that allow for formal verification, and to me is incred",
-      "points": 33,
-      "comments": 19,
-      "hn_id": 50299004,
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "title": "Backdoors in Claude Code for VS, Cursor official extensions",
+      "desc": "",
+      "points": 72,
+      "comments": 14,
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "key": "e46ca026f5b5",
-      "score": 26.6
+      "key": "ce7117a452f8",
+      "score": 28.1
     },
     {
       "source": "hackernews",
       "repo": "",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "title": "Official Claude Code extension compromise",
+      "url": "https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/",
+      "title": "American views of higher ed decline, once again",
       "desc": "",
-      "points": 53,
-      "comments": 8,
-      "hn_id": 50300683,
+      "points": 20,
+      "comments": 9,
+      "hn_id": 50302925,
       "sources": [
         "hackernews"
       ],
-      "key": "d4f691c037f4",
-      "score": 25.7
+      "key": "dd740ec8ba1c",
+      "score": 11.1
     },
     {
       "source": "hackernews",
       "repo": "",
-      "url": "https://www.youtube.com/watch?v=MENoB3Rex28",
-      "title": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+      "url": "https://seekingalpha.com/article/4960031-ai-bubble-burst-confirmed-by-alphabet-caterpillar-servicenow-amazon",
+      "title": "AI Bubble Burst",
       "desc": "",
-      "points": 34,
-      "comments": 37,
-      "hn_id": 50302407,
+      "points": 12,
+      "comments": 2,
+      "hn_id": 50303833,
       "sources": [
         "hackernews"
       ],
-      "key": "1e536df70edb",
-      "score": 24.5
+      "key": "b968ccbee829",
+      "score": 4.3
     },
     {
       "source": "lobsters",
@@ -595,45 +594,31 @@
     {
       "source": "hackernews",
       "repo": "",
-      "url": "https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/",
-      "title": "American views of higher ed decline, once again",
+      "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+      "title": "Neal Stephenson on AI and What Comes Next [video]",
       "desc": "",
-      "points": 10,
+      "points": 4,
       "comments": 0,
-      "hn_id": 50302925,
+      "hn_id": 50304280,
       "sources": [
         "hackernews"
       ],
-      "key": "dd740ec8ba1c",
-      "score": 2.5
+      "key": "af5c65584d1e",
+      "score": 0.0
     },
     {
       "source": "hackernews",
       "repo": "",
-      "url": "https://seekingalpha.com/article/4960031-ai-bubble-burst-confirmed-by-alphabet-caterpillar-servicenow-amazon",
-      "title": "AI Bubble Burst",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
       "desc": "",
-      "points": 7,
-      "comments": 1,
-      "hn_id": 50303833,
+      "points": 3,
+      "comments": 0,
+      "hn_id": 50304122,
       "sources": [
         "hackernews"
       ],
-      "key": "b968ccbee829",
-      "score": 1.4
-    },
-    {
-      "source": "lobsters",
-      "repo": "",
-      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-      "title": "Anthropic hacked to deliver remote access trojan to Claude developer laptops worldwide",
-      "desc": "",
-      "points": 1,
-      "comments": 1,
-      "sources": [
-        "lobsters"
-      ],
-      "key": "bc611d5d40d2",
+      "key": "d54545fa0edb",
       "score": 0.0
     }
   ]
