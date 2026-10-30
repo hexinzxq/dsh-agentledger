@@ -13,5 +13,6 @@
   "local": "/Users/xin/Documents/deepseek-harness/default-workspace/dsh-daily-lab",
   "remote": "https://github.com/hexinzxq/dsh-agentledger",
   "daily_target": 5,
-  "status": "shipping"
+  "status": "shipping",
+  "routine": "docs/ROUTINE.md"
 }
