@@ -3,3 +3,6 @@
 2026-10-30 22:29  2026-10-30 #3  3 MCP stdio server, 3-layer tools
 2026-10-30 22:29  2026-10-30 #4  4 FastAPI + zero-build viewer (fixed cross-thread sqlite, embedder dir)
 2026-10-30 22:29  2026-10-30 #5  5 CLI stdlib + summary module split + docs
+2026-10-31 08:04  2026-10-31 #1  修 CI：vendor 校验 + 删掉指向已删脚本的步骤
+2026-10-31 08:04  2026-10-31 #2  frontend-design 加 contrast.py，命名约定变成测试
+2026-10-31 08:04  2026-10-31 #3  校验器编译 scripts/，pyc 与 pycache 跳过
