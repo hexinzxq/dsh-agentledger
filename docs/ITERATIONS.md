@@ -98,3 +98,13 @@ CLI 不该为了生成一个摘要去 import FastAPI。
 
 这个仓库（dsh-agentledger）保留，继续长，只是不再是日更目标。当前状态：40 个测试全绿、CI 绿、5 个 commit、README 有快速开始。
 下次回来时从这里接着：真实 DSH 会话 JSONL 跑 ingest 看抽取精度、MCP 接进 harness 配置验证三层检索手感、lab.py 的 GitHub search 422。
+
+## 2026-10-31 周六调研（只存档，不换项目）
+
+- 第 0 步闸门：week_of=2026-10-30，距今 1 天 < 6 天 → skillforge 继续长，本次仅调研存档。
+- 快照 `research/reports/2026-10-31.md`：41 条去重（trending-weekly 15 / daily 14 / HN 16 / lobsters SSL 抖动 0 / github-search 仍 422）。
+- 值得注意的三条：
+  1. **skill 包仍是绝对主流**：Top 15 里 8 个是 agent skills（claude-seo 26 子技能+19 子代理 4478★/周、karpathy-skills、taste-skill、mattpocock/skills、impeccable、cloudflare/security-audit-skill、superpowers、hallmark）。本周做 skillforge 的方向被市场验证。
+  2. **「反 AI 模板味设计」已经是一个细分赛道**：Nutlope/hallmark（11,766★/周）、pbakaus/impeccable（11,323）、Leonxlnx/taste-skill（4,712）全撞我们 frontend-design skill 的射程。下周读这三个的实现，找可吸收的具体招数（hallmark 的"去 slop"清单、impeccable 的词汇表、taste-skill 的浏览器截图流程）。
+  3. **打分器缺「越狱/破解」黑名单**：YuJunZhiXue/dsh-purge（jailbreak 类）混进 65 分。下轮给 lab.py 黑名单加 jailbreak/prompt-injection/NSFW 类目。
+- 下一个应用周的候选（记下不展开）：AstrBot（70.0，IM 平台聚合 agent 框架，前后端齐全体量可控）、Orkas（本地优先桌面 AI 团队，Commander 模式）。

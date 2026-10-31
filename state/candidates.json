@@ -4,7 +4,7 @@
       "repo": "AgriciDaniel/claude-seo",
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 72.0,
       "sources": [
         "github-trending-weekly"
@@ -24,17 +24,18 @@
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 70.0,
       "sources": [
-        "github-trending-daily"
+        "github-trending-daily",
+        "github-trending-weekly"
       ]
     },
     "2fd32a61782e": {
       "repo": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 67.5,
       "sources": [
         "github-trending-weekly"
@@ -44,7 +45,7 @@
       "repo": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 67.5,
       "sources": [
         "github-trending-weekly"
@@ -54,7 +55,7 @@
       "repo": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 67.5,
       "sources": [
         "github-trending-weekly"
@@ -84,7 +85,7 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 67.5,
       "sources": [
         "github-trending-daily"
@@ -94,7 +95,7 @@
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 65.0,
       "sources": [
         "github-trending-daily",
@@ -105,7 +106,7 @@
       "repo": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 65.0,
       "sources": [
         "github-trending-weekly"
@@ -125,7 +126,7 @@
       "repo": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 62.5,
       "sources": [
         "github-trending-weekly"
@@ -135,7 +136,7 @@
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 62.5,
       "sources": [
         "github-trending-daily",
@@ -146,7 +147,7 @@
       "repo": "jakubkrehel/skills",
       "url": "https://github.com/jakubkrehel/skills",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 62.5,
       "sources": [
         "github-trending-weekly"
@@ -166,10 +167,9 @@
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 62.5,
       "sources": [
-        "github-trending-daily",
         "github-trending-weekly"
       ]
     },
@@ -177,7 +177,7 @@
       "repo": "Renhuai123/ziwei-doushu",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 62.5,
       "sources": [
         "github-trending-daily"
@@ -207,7 +207,7 @@
       "repo": "lightpanda-io/browser",
       "url": "https://github.com/lightpanda-io/browser",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 62.5,
       "sources": [
         "github-trending-daily"
@@ -217,7 +217,7 @@
       "repo": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 60.0,
       "sources": [
         "github-trending-daily"
@@ -227,7 +227,7 @@
       "repo": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 60.0,
       "sources": [
         "github-trending-daily"
@@ -237,7 +237,7 @@
       "repo": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 55.0,
       "sources": [
         "github-trending-daily",
@@ -268,7 +268,7 @@
       "repo": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "best_score": 35.0,
       "sources": [
         "hackernews"
@@ -365,11 +365,11 @@
       ]
     },
     "d4f691c037f4": {
-      "repo": "Official Claude Code extension compromise",
+      "repo": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
       "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "best_score": 25.7,
+      "last_seen": "2026-10-31",
+      "best_score": 37.5,
       "sources": [
         "hackernews"
       ]
@@ -441,6 +441,226 @@
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
       "best_score": 0,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "dc0382aea725": {
+      "repo": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 70.0,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "d94d58183712": {
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 70.0,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "6dd8d6308ab8": {
+      "repo": "Orkas-AI/Orkas",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 70.0,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "9bed55f1a118": {
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 67.5,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "695960f3afa5": {
+      "repo": "YuJunZhiXue/dsh-purge",
+      "url": "https://github.com/YuJunZhiXue/dsh-purge",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 65.0,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "3bae302d9b84": {
+      "repo": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 62.5,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "36789bfad39b": {
+      "repo": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 40.0,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "bbb2a3ceadf6": {
+      "repo": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 35.0,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "fde1afe22eaf": {
+      "repo": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 33.8,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "bee6a342d8b9": {
+      "repo": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "b691ffd44902": {
+      "repo": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "01ec82979c69": {
+      "repo": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "bf6ffe52b2e4": {
+      "repo": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "6f2dfb4a6085": {
+      "repo": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "d6e6fcb8ee73": {
+      "repo": "AO3 Down for Maintenance",
+      "url": "https://www.otwstatus.org",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "e1704bcdfece": {
+      "repo": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "url": "https://sketch.wakeshift.ai/games/q5ucru",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 28.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "d70d342fcce3": {
+      "repo": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 27.7,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "7ff25f9f642e": {
+      "repo": "Some Thing is Happening A note from the AI companies",
+      "url": "https://alanbellows.com/some-thing-is-happening/",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 27.7,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "658af11abfbc": {
+      "repo": "bregman-arie/devops-exercises",
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 20.0,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "65c02aca8f92": {
+      "repo": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
+      "url": "https://publicdomainreview.org/essay/wonderful-weather/",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 7.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "b3aa3ecd4b47": {
+      "repo": "We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 4.1,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "752df7e1d384": {
+      "repo": "Neuroscientists reveal method to train people to have lucid dreams",
+      "url": "https://www.livescience.com/health/neuroscience/neuroscientists-reveal-method-to-train-people-to-have-lucid-dreams-and-it-involves-virtual-reality-and-mediation",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "best_score": 1.5,
       "sources": [
         "hackernews"
       ]

@@ -1,0 +1,624 @@
+{
+  "date": "2026-10-31",
+  "meta": {
+    "fetched_at": "2026-10-31T20:00:27.429078+08:00",
+    "sources": {
+      "github-trending-weekly": {
+        "ok": true,
+        "count": 15
+      },
+      "github-trending-daily": {
+        "ok": true,
+        "count": 14
+      },
+      "hackernews": {
+        "ok": true,
+        "count": 16
+      },
+      "lobsters": {
+        "ok": true,
+        "count": 0
+      },
+      "github-search": {
+        "ok": true,
+        "count": 0
+      }
+    }
+  },
+  "items": [
+    {
+      "source": "github-trending-weekly",
+      "repo": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "desc": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "lang": "Python",
+      "stars": 0,
+      "gained": 4478,
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "key": "e6d447a5d6e7",
+      "score": 72.0
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "lang": "TypeScript",
+      "stars": 0,
+      "gained": 3518,
+      "sources": [
+        "github-trending-daily",
+        "github-trending-weekly"
+      ],
+      "key": "1ffc8f4b2a6b",
+      "score": 70.0
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "lang": "Python",
+      "stars": 0,
+      "gained": 2133,
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "key": "dc0382aea725",
+      "score": 70.0
+    },
+    {
+      "source": "github-trending-daily",
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "desc": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "lang": "Shell",
+      "stars": 0,
+      "gained": 1347,
+      "sources": [
+        "github-trending-daily"
+      ],
+      "key": "d94d58183712",
+      "score": 70.0
+    },
+    {
+      "source": "github-trending-daily",
+      "repo": "Orkas-AI/Orkas",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "desc": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+      "lang": "JavaScript",
+      "stars": 0,
+      "gained": 1004,
+      "sources": [
+        "github-trending-daily"
+      ],
+      "key": "6dd8d6308ab8",
+      "score": 70.0
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars": 0,
+      "gained": 11766,
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "key": "9bed55f1a118",
+      "score": 67.5
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "",
+      "stars": 0,
+      "gained": 4178,
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "key": "a89810be3036",
+      "score": 67.5
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "lang": "Python",
+      "stars": 0,
+      "gained": 5490,
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "key": "2fd32a61782e",
+      "score": 67.5
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "desc": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "lang": "JavaScript",
+      "stars": 0,
+      "gained": 4712,
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "key": "8896a31ce669",
+      "score": 67.5
+    },
+    {
+      "source": "github-trending-daily",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars": 0,
+      "gained": 882,
+      "sources": [
+        "github-trending-daily"
+      ],
+      "key": "6ef6a81d18c4",
+      "score": 67.5
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "lang": "Rust",
+      "stars": 0,
+      "gained": 11323,
+      "sources": [
+        "github-trending-daily",
+        "github-trending-weekly"
+      ],
+      "key": "b3881fe4302c",
+      "score": 65.0
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars": 0,
+      "gained": 6506,
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "key": "c8b1425e7ab7",
+      "score": 65.0
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "YuJunZhiXue/dsh-purge",
+      "url": "https://github.com/YuJunZhiXue/dsh-purge",
+      "desc": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "lang": "JavaScript",
+      "stars": 0,
+      "gained": 6665,
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "key": "695960f3afa5",
+      "score": 65.0
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars": 0,
+      "gained": 12838,
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "key": "17360b8081a4",
+      "score": 62.5
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars": 0,
+      "gained": 5474,
+      "sources": [
+        "github-trending-daily",
+        "github-trending-weekly"
+      ],
+      "key": "1e49a71d3f4c",
+      "score": 62.5
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "jakubkrehel/skills",
+      "url": "https://github.com/jakubkrehel/skills",
+      "desc": "A collection of agent skills that help you build great interfaces.",
+      "lang": "Markdown",
+      "stars": 0,
+      "gained": 1107,
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "key": "4231fb432956",
+      "score": 62.5
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars": 0,
+      "gained": 1888,
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "key": "4cb2062a8a94",
+      "score": 62.5
+    },
+    {
+      "source": "github-trending-daily",
+      "repo": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "desc": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "lang": "TypeScript",
+      "stars": 0,
+      "gained": 1093,
+      "sources": [
+        "github-trending-daily"
+      ],
+      "key": "a8c3055cfa24",
+      "score": 62.5
+    },
+    {
+      "source": "github-trending-daily",
+      "repo": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "desc": "Lightpanda: the headless browser designed for AI and automation",
+      "lang": "Zig",
+      "stars": 0,
+      "gained": 929,
+      "sources": [
+        "github-trending-daily"
+      ],
+      "key": "e2e7f34f7915",
+      "score": 62.5
+    },
+    {
+      "source": "github-trending-daily",
+      "repo": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "desc": "Free and open-source macOS menu bar toolkit.",
+      "lang": "Swift",
+      "stars": 0,
+      "gained": 499,
+      "sources": [
+        "github-trending-daily"
+      ],
+      "key": "3bae302d9b84",
+      "score": 62.5
+    },
+    {
+      "source": "github-trending-daily",
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "lang": "TypeScript",
+      "stars": 0,
+      "gained": 1304,
+      "sources": [
+        "github-trending-daily"
+      ],
+      "key": "da6d58510fe1",
+      "score": 60.0
+    },
+    {
+      "source": "github-trending-daily",
+      "repo": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "lang": "Python",
+      "stars": 0,
+      "gained": 1035,
+      "sources": [
+        "github-trending-daily"
+      ],
+      "key": "c8966a470279",
+      "score": 60.0
+    },
+    {
+      "source": "github-trending-weekly",
+      "repo": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars": 0,
+      "gained": 2775,
+      "sources": [
+        "github-trending-daily",
+        "github-trending-weekly"
+      ],
+      "key": "201061894c1c",
+      "score": 55.0
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "desc": "https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2606.03979",
+      "points": 233,
+      "comments": 33,
+      "hn_id": 50272479,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "36789bfad39b",
+      "score": 40.0
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "desc": "https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notic...",
+      "points": 911,
+      "comments": 534,
+      "hn_id": 50300683,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "d4f691c037f4",
+      "score": 37.5
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "title": "Tell HN: Scribd Breached",
+      "desc": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:Subject: Notice of Security IncidentThis notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner.Hello,We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected y",
+      "points": 243,
+      "comments": 97,
+      "hn_id": 50312756,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "bbb2a3ceadf6",
+      "score": 35.0
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "desc": "",
+      "points": 403,
+      "comments": 166,
+      "hn_id": 50296486,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "9b211f67fbb5",
+      "score": 35.0
+    },
+    {
+      "source": "github-trending-daily",
+      "repo": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "lang": "TypeScript",
+      "stars": 0,
+      "gained": 115,
+      "sources": [
+        "github-trending-daily"
+      ],
+      "key": "fde1afe22eaf",
+      "score": 33.8
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "title": "Serbia just elected the world's brainiest parliament",
+      "desc": "",
+      "points": 205,
+      "comments": 133,
+      "hn_id": 50314654,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "bee6a342d8b9",
+      "score": 32.5
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "desc": "",
+      "points": 209,
+      "comments": 246,
+      "hn_id": 50304122,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "b691ffd44902",
+      "score": 32.5
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "title": "Building an AI-native engineering org",
+      "desc": "",
+      "points": 163,
+      "comments": 184,
+      "hn_id": 50296730,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "01ec82979c69",
+      "score": 32.5
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "desc": "",
+      "points": 329,
+      "comments": 188,
+      "hn_id": 50309647,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "bf6ffe52b2e4",
+      "score": 32.5
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "desc": "",
+      "points": 605,
+      "comments": 455,
+      "hn_id": 50305693,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "6f2dfb4a6085",
+      "score": 32.5
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://www.otwstatus.org",
+      "title": "AO3 Down for Maintenance",
+      "desc": "",
+      "points": 126,
+      "comments": 39,
+      "hn_id": 50310258,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "d6e6fcb8ee73",
+      "score": 32.5
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://sketch.wakeshift.ai/games/q5ucru",
+      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "desc": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https:&#x2F;&#x2F;sketch.wakeshift.ai&#x2F;games&#x2F;q5ucruHi folks! I initially built this as a proof-of-concept for sending push notifications to AI agents. Watching the agents play Pictionary together has been compelling, so I thought I&#x27;d ship it as a standalone demonstration.In Sketc",
+      "points": 34,
+      "comments": 10,
+      "hn_id": 50305218,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "e1704bcdfece",
+      "score": 28.5
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "desc": "",
+      "points": 58,
+      "comments": 13,
+      "hn_id": 50290652,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "d70d342fcce3",
+      "score": 27.7
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://alanbellows.com/some-thing-is-happening/",
+      "title": "Some Thing is Happening A note from the AI companies",
+      "desc": "",
+      "points": 50,
+      "comments": 13,
+      "hn_id": 50305724,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "7ff25f9f642e",
+      "score": 27.7
+    },
+    {
+      "source": "github-trending-daily",
+      "repo": "bregman-arie/devops-exercises",
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+      "lang": "Python",
+      "stars": 0,
+      "gained": 341,
+      "sources": [
+        "github-trending-daily"
+      ],
+      "key": "658af11abfbc",
+      "score": 20.0
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://publicdomainreview.org/essay/wonderful-weather/",
+      "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
+      "desc": "",
+      "points": 20,
+      "comments": 0,
+      "hn_id": 50277518,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "65c02aca8f92",
+      "score": 7.5
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "title": "We Took over ChatGPT Accounts",
+      "desc": "",
+      "points": 10,
+      "comments": 4,
+      "hn_id": 50314699,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "b3aa3ecd4b47",
+      "score": 4.1
+    },
+    {
+      "source": "hackernews",
+      "repo": "",
+      "url": "https://www.livescience.com/health/neuroscience/neuroscientists-reveal-method-to-train-people-to-have-lucid-dreams-and-it-involves-virtual-reality-and-mediation",
+      "title": "Neuroscientists reveal method to train people to have lucid dreams",
+      "desc": "",
+      "points": 8,
+      "comments": 0,
+      "hn_id": 50314611,
+      "sources": [
+        "hackernews"
+      ],
+      "key": "752df7e1d384",
+      "score": 1.5
+    }
+  ]
+}
