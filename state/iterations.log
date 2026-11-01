@@ -10,3 +10,5 @@
 2026-10-31 13:39  2026-10-31 #5  skillforge #5: 双作用域拒绝混读 + shadcn -foreground 约定 + alpha 合成（真实 globals.css 实测，发现深色 destructive 1.66:1）
 2026-10-31 18:32  2026-10-31 #6  skillforge 维护（非迭代）：contrast 机制细节挪 references/contrast-checking.md，SKILL.md 232→220 行，validator 警告清零
 2026-11-01 13:32  2026-11-01 #1  skillforge #1: sloplint —— 把「不要 AI 味」变成可跑检查（6 FAIL 规则 + 2 TELL，87 测试，CI 门禁）
+2026-11-01 18:39  2026-11-01 #2  skillforge #2: sloplint 真实 CSS 精度修复（border-left-color 误报、:focus 只算 TELL）
+2026-11-01 18:39  2026-11-01 #3  skillforge #3: contrast.py --all-blocks 一条命令查完 :root + .dark
