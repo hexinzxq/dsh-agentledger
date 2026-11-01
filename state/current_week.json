@@ -18,5 +18,16 @@
   "status": "shipping",
   "routine": "docs/ROUTINE.md",
   "note": "2026-11-01 晚间 GitHub 线路中断（SSL_ERROR_SYSCALL），#2–#5 已本地提交待推送",
-  "switched_at": "2026-10-30T22:48:24+08:00"
+  "switched_at": "2026-10-30T22:48:24+08:00",
+  "pending_push": {
+    "skillforge": [
+      "c01c256",
+      "0122b7d",
+      "0d97ab1",
+      "7b10c9f",
+      "303a4ab"
+    ],
+    "reason": "2026-11-01 18:50 起 GitHub 线路不通（SSL_ERROR_SYSCALL），多次重试失败",
+    "action": "下次会话先探测 github.com，通即 push origin main 并确认 CI"
+  }
 }
