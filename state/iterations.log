@@ -14,3 +14,4 @@
 2026-11-01 18:39  2026-11-01 #3  skillforge #3: contrast.py --all-blocks 一条命令查完 :root + .dark
 2026-11-01 21:40  2026-11-01 #4  skillforge #4: sloplint 抓 dangling var()（组件引用未声明 token），var 回退字面量豁免
 2026-11-01 21:40  2026-11-01 #5  skillforge #5: validator 反向检查——references/ 里没人指向的文件报警（当场抓出自己两个）
+2026-11-02 08:01  2026-11-02 #2  skillforge #1: sloplint 跟随页面 <link> 本地样式表 + 摘要显示扫描文件数（真实 blog 页静默触发）
