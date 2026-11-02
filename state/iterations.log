@@ -18,3 +18,4 @@
 2026-11-02 08:03  2026-11-02 #2  skillforge #2: dangling-var 改为只报拼错（编辑距离≤2），真实 36 个文件 1053→0 假阳性
 2026-11-02 12:33  2026-11-02 #3  skillforge #3: contrast.py 解析 var()/color-mix()/light-dark()（Bootstrap 496KB 实测），砍掉自造的 -fg/-bg 配对
 2026-11-02 13:31  2026-11-02 #4  skillforge #4: --all-blocks 按层叠解析（832→47 未检查）+ 空 block 汇总一行 + at-rule 选择器污染
+2026-11-02 18:31  2026-11-02 #5  skillforge #5: install.sh 递归发现 vendor 61 个 skill（默认只装自己的，--vendor 才带），CI 覆盖嵌套路径
