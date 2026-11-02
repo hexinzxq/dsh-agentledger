@@ -16,3 +16,4 @@
 2026-11-01 21:40  2026-11-01 #5  skillforge #5: validator 反向检查——references/ 里没人指向的文件报警（当场抓出自己两个）
 2026-11-02 08:01  2026-11-02 #1  skillforge #1: sloplint 跟随页面 <link> 本地样式表 + 摘要显示扫描文件数（真实 blog 页静默触发）
 2026-11-02 08:03  2026-11-02 #2  skillforge #2: dangling-var 改为只报拼错（编辑距离≤2），真实 36 个文件 1053→0 假阳性
+2026-11-02 12:33  2026-11-02 #3  skillforge #3: contrast.py 解析 var()/color-mix()/light-dark()（Bootstrap 496KB 实测），砍掉自造的 -fg/-bg 配对
