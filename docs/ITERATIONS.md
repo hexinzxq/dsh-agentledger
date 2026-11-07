@@ -108,3 +108,14 @@ CLI 不该为了生成一个摘要去 import FastAPI。
   2. **「反 AI 模板味设计」已经是一个细分赛道**：Nutlope/hallmark（11,766★/周）、pbakaus/impeccable（11,323）、Leonxlnx/taste-skill（4,712）全撞我们 frontend-design skill 的射程。下周读这三个的实现，找可吸收的具体招数（hallmark 的"去 slop"清单、impeccable 的词汇表、taste-skill 的浏览器截图流程）。
   3. **打分器缺「越狱/破解」黑名单**：YuJunZhiXue/dsh-purge（jailbreak 类）混进 65 分。下轮给 lab.py 黑名单加 jailbreak/prompt-injection/NSFW 类目。
 - 下一个应用周的候选（记下不展开）：AstrBot（70.0，IM 平台聚合 agent 框架，前后端齐全体量可控）、Orkas（本地优先桌面 AI 团队，Commander 模式）。
+
+## 2026-11-07 周调研 + 换项目
+
+- 第 0 步闸门：week_of=2026-10-30，到 2026-11-07 已 8 天 ≥ 6 → 换项目。
+- 快照 `research/reports/2026-11-07.md`：45 条去重（trending-weekly 19 / daily 15 / HN 14 / lobsters 2 / github-search 仍 422）。头名 thedotmack/claude-mem 70.0 已于 10-30 做过。
+- 选定 max-sixty/worktrunk（65.0，2184★/周）：Git worktree management for parallel AI agent workflows。理由：体量可控（CLI + 本地页面）、需求真实（多会话并行时每个 worktree 谁在跑、脏不脏、落后多少没人一眼看得到）、跟现有 skillforge 不重叠。
+- 差异（写进新仓库 README）：worktrunk 管 git 本身（创建/切换/清理），我们加一块人看的板 + 会话状态。
+- 新仓库 https://github.com/hexinzxq/worktree-board ：`scan.py` 解析 `git worktree list --porcelain` → dataclass（dirty/ahead/behind/last commit），`server.py` 标准库 HTTP（`/api/state` + 单页），`cli.py` 的 `wtree ls` / `wtree serve`，10 个测试（临时 git 仓库 + worktree + upstream），CI 3.10/3.12 绿。零第三方运行时依赖，只读定位。
+- 顺手用自家 sloplint 扫了新页面：`clean: 0 tell(s) wairable, 0 failures`；contrast 全部 text/muted 对 ≥6.4:1，line 对 1.24–1.47 advisory（分隔线，非控件描边）。scaffold 时出现过一条 eyebrow（ALL-CAPS 加字距）teLL，已按自家建议改掉。
+- `state/current_week.json` 已指向 worktree-board（repo/local/remote/routine/status/last_iteration）。
+- 下一步三件事：worktree 与会话对上（活跃标记）、`wtree ls --watch` 终端刷新、落后远程时给出 fetch 提示（仍只读）。

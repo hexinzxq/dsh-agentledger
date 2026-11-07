@@ -1,20 +1,18 @@
 {
-  "week_of": "2026-10-30",
-  "project": "skillforge (agent skills library)",
-  "url": "https://github.com/hexinzxq/skillforge",
-  "angle": "规范校验 · 可执行脚本 · 数值而非形容词",
-  "phase": "evening",
-  "iterations_today": {
-    "2026-11-02": 5
-  },
-  "created_at": "2026-10-30T22:29:25.992870+08:00",
-  "last_iteration": "2026-11-02T18:31:43.592228+08:00",
-  "repo": "skillforge",
-  "local": "/Users/xin/Documents/deepseek-harness/default-workspace/skillforge",
-  "remote": "https://github.com/hexinzxq/skillforge",
+  "week_of": "2026-11-07",
+  "project": "max-sixty/worktrunk",
+  "url": "https://github.com/max-sixty/worktrunk",
+  "angle": "面向本机多会话 agent 的 worktree 看板：worktree=会话，网页看分支/未提交改动/落后远程，CLI 给会话分配干净 worktree；worktrunk 只管 git 本身，我们加一块人看的板和会话状态",
+  "phase": "scaffold",
+  "iterations_today": {},
+  "created_at": "2026-11-07T20:02:17.007356+08:00",
+  "last_iteration": "2026-11-07T20:06:48+08:00",
+  "repo": "worktree-board",
+  "local": "/Users/xin/Documents/deepseek-harness/default-workspace/worktree-board",
+  "remote": "https://github.com/hexinzxq/worktree-board",
   "daily_target": 5,
   "status": "shipping",
   "routine": "docs/ROUTINE.md",
-  "note": "2026-11-01 晚间 GitHub 线路中断（SSL_ERROR_SYSCALL），#2–#5 已本地提交待推送",
-  "switched_at": "2026-10-30T22:48:24+08:00"
+  "note": "scaffold 完成（scan/stdlib server/wtree CLI/10 测试/CI 绿），2026-11-07T20:06:48+08:00",
+  "switched_at": "2026-11-07T20:06:48+08:00"
 }

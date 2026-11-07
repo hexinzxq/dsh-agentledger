@@ -24,10 +24,9 @@
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-07",
       "best_score": 70.0,
       "sources": [
-        "github-trending-daily",
         "github-trending-weekly"
       ]
     },
@@ -85,20 +84,20 @@
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-07",
       "best_score": 67.5,
       "sources": [
-        "github-trending-daily"
+        "github-trending-daily",
+        "github-trending-weekly"
       ]
     },
     "b3881fe4302c": {
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-07",
       "best_score": 65.0,
       "sources": [
-        "github-trending-daily",
         "github-trending-weekly"
       ]
     },
@@ -126,20 +125,19 @@
       "repo": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-07",
       "best_score": 62.5,
       "sources": [
-        "github-trending-weekly"
+        "github-trending-daily"
       ]
     },
     "1e49a71d3f4c": {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-07",
       "best_score": 62.5,
       "sources": [
-        "github-trending-daily",
         "github-trending-weekly"
       ]
     },
@@ -147,7 +145,7 @@
       "repo": "jakubkrehel/skills",
       "url": "https://github.com/jakubkrehel/skills",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-07",
       "best_score": 62.5,
       "sources": [
         "github-trending-weekly"
@@ -167,9 +165,10 @@
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-07",
       "best_score": 62.5,
       "sources": [
+        "github-trending-daily",
         "github-trending-weekly"
       ]
     },
@@ -177,10 +176,10 @@
       "repo": "Renhuai123/ziwei-doushu",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-07",
       "best_score": 62.5,
       "sources": [
-        "github-trending-daily"
+        "github-trending-weekly"
       ]
     },
     "be18d27304b5": {
@@ -217,10 +216,11 @@
       "repo": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-07",
       "best_score": 60.0,
       "sources": [
-        "github-trending-daily"
+        "github-trending-daily",
+        "github-trending-weekly"
       ]
     },
     "c8966a470279": {
@@ -237,10 +237,9 @@
       "repo": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-07",
       "best_score": 55.0,
       "sources": [
-        "github-trending-daily",
         "github-trending-weekly"
       ]
     },
@@ -459,10 +458,10 @@
       "repo": "Donchitos/Claude-Code-Game-Studios",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-07",
       "best_score": 70.0,
       "sources": [
-        "github-trending-daily"
+        "github-trending-weekly"
       ]
     },
     "6dd8d6308ab8": {
@@ -479,7 +478,7 @@
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-07",
       "best_score": 67.5,
       "sources": [
         "github-trending-weekly"
@@ -664,6 +663,338 @@
       "sources": [
         "hackernews"
       ]
+    },
+    "35f2c0942b71": {
+      "repo": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 67.5,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "dbaf6cfbe890": {
+      "repo": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 67.5,
+      "sources": [
+        "github-trending-daily",
+        "github-trending-weekly"
+      ]
+    },
+    "36dfd4568d16": {
+      "repo": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 65.0,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "576347d80bda": {
+      "repo": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 62.5,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "96a55d3871f6": {
+      "repo": "The-PR-Agent/pr-agent",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 62.5,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "268b574ced14": {
+      "repo": "google/skills",
+      "url": "https://github.com/google/skills",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 62.5,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "e8d57eff5533": {
+      "repo": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 60.0,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "a8419e0a7b11": {
+      "repo": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 60.0,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "e94c5b2998cd": {
+      "repo": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 60.0,
+      "sources": [
+        "github-trending-weekly"
+      ]
+    },
+    "6ef92d5c4273": {
+      "repo": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 60.0,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "2cd277ce8487": {
+      "repo": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 60.0,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "dc9799a8f525": {
+      "repo": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 60.0,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "f6a54558a021": {
+      "repo": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 60.0,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "7a326e4e59c7": {
+      "repo": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 52.0,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "52f83931313c": {
+      "repo": "mbillow/localthings",
+      "url": "https://github.com/mbillow/localthings",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 48.5,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "939cd5a2c59e": {
+      "repo": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 46.2,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "622fdee10232": {
+      "repo": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 40.5,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "4fbbf967f5b1": {
+      "repo": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
+      "url": "https://github.com/piercefreeman/waymark",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 36.7,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "819229fc61c9": {
+      "repo": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 35.0,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "f7657e937175": {
+      "repo": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 33.8,
+      "sources": [
+        "github-trending-daily"
+      ]
+    },
+    "b44ca4f50a4b": {
+      "repo": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "65fef1cf7d67": {
+      "repo": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "c78ecd89b37f": {
+      "repo": "GitHub's new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ]
+    },
+    "5f69d0c634e0": {
+      "repo": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "017b66de6180": {
+      "repo": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "f610a7e960de": {
+      "repo": "Ozempic-style drugs now in trials for heart failure, addiction and even aging",
+      "url": "https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "6b4f7ea5d0a2": {
+      "repo": "I struggle to believe that AI R&D is ingenious",
+      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 32.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "c7148e576d62": {
+      "repo": "How octopuses squeeze through too small gaps",
+      "url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 31.8,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "a1f9d28c969a": {
+      "repo": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "url": "https://github.com/andrewboldi/tmux-restore",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 29.0,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "4879ec09cda3": {
+      "repo": "Memorilla: Latent Semantic Memory for LLMs",
+      "url": "https://arxiv.org/abs/2610.21375",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 27.7,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "7944500f59da": {
+      "repo": "40C3 halfnarp – Submit talk preferences to aid scheduling",
+      "url": "https://halfnarp.events.ccc.de",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 26.5,
+      "sources": [
+        "hackernews"
+      ]
+    },
+    "2f17a62ff90d": {
+      "repo": "How are you dealing with all the negative side effects of AI on the web?",
+      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 14.8,
+      "sources": [
+        "lobsters"
+      ]
+    },
+    "829c6759ec65": {
+      "repo": "Enterprise Brain – Memory that learns from work",
+      "url": "https://www.ampup.ai/companybrain",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "best_score": 4.0,
+      "sources": [
+        "hackernews"
+      ]
     }
   },
   "picks": [
@@ -672,6 +1003,12 @@
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "angle": "本地优先 · 确定性抽取 · 中文检索 · 零构建"
+    },
+    {
+      "date": "2026-11-07",
+      "repo": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "angle": "面向本机多会话 agent 的 worktree 看板：worktree=会话，网页看分支/未提交改动/落后远程，CLI 给会话分配干净 worktree；worktrunk 只管 git 本身，我们加一块人看的板和会话状态"
     }
   ]
 }
